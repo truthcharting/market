@@ -257,7 +257,7 @@ function InvestmentProposalTab() {
       'Strengthened parish relationships through enhanced youth programming'
     ],
     truthCharting: [
-      '$500k production capital for premium content creation',
+      '$500k production capital for content creation',
       'Access to FORMED\'s 5,000+ parish network',
       'Dual revenue streams (direct + FORMED royalties)'
     ]
@@ -306,7 +306,7 @@ function InvestmentProposalTab() {
                   <Badge variant="outline" className="border-blue-400 text-blue-300">FORMED</Badge>
                 </div>
                 <p className="text-gray-300">
-                  <strong>FORMED Integration:</strong> Included as premium feature within existing FORMED parish subscriptions
+                  <strong>FORMED Integration:</strong> Included as feature within existing FORMED parish subscriptions
                 </p>
               </div>
             </div>
