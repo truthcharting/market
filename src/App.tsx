@@ -354,13 +354,7 @@ function InvestmentProposalTab() {
                   <p className="text-gray-300">FORMED receives 10% ongoing royalty from standalone subscriptions in perpetuity or equity in the company</p>
                 </div>
 
-                <div className="bg-white/5 p-4 rounded-lg border border-white/10">
-                  <div className="flex items-center gap-2 mb-2">
-                    <Badge className="bg-orange-500">Platform Revenue</Badge>
-                  </div>
-                  <p className="text-gray-300">Truth Charting receives $20 per parish per month for parishes accessing content through FORMED</p>
-                  <p className="text-xs text-gray-400 mt-1">A formula can be derived based upon unique viewers if specific parish viewership data is not available.</p>
-                </div>
+
               </div>
             </div>
           </div>
