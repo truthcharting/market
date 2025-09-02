@@ -351,7 +351,7 @@ function InvestmentProposalTab() {
                     <Badge className="bg-purple-500">Phase 2</Badge>
                     <span className="text-white">Ongoing</span>
                   </div>
-                  <p className="text-gray-300">FORMED receives 10% ongoing royalty from standalone subscriptions in perpetuity or equity in the company</p>
+                  <p className="text-gray-300">FORMED and Truth Charting negotiate ongoing revenue sharing terms</p>
                 </div>
 
 
