@@ -257,7 +257,7 @@ function InvestmentProposalTab() {
       'Strengthened parish relationships through enhanced youth programming'
     ],
     truthCharting: [
-      '$500k production capital for content creation',
+      '$500k production capital for premium content creation',
       'Access to FORMED\'s 5,000+ parish network',
       'Dual revenue streams (direct + FORMED royalties)'
     ]
