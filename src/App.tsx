@@ -128,7 +128,7 @@ function MarketSizeTab() {
         <Card className="p-8 bg-white/5 border-white/10 backdrop-blur-sm">
           <div className="flex items-center gap-3 mb-6">
             <BarChart3 className="w-6 h-6 text-orange-400" />
-            <h2 className="text-2xl text-white">Market Calculations</h2>
+            <h2 className="text-2xl text-white">Annualized Market Calculations</h2>
           </div>
           
           <div className="overflow-x-auto">
